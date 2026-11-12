@@ -2,25 +2,25 @@
 
 // 1) Firebase Console -> Project settings -> Your apps -> Config
 export const firebaseConfig = {
-  apiKey: "BURA_YAZIN",
-  authDomain: "BURA_YAZIN.firebaseapp.com",
-  projectId: "BURA_YAZIN",
-  appId: "BURA_YAZIN"
+  apiKey: "AIzaSyDP1267d8uLEGl4lU43xHEZ0BtYyUQmW3I",
+  authDomain: "hhbaku-fda38.firebaseapp.com",
+  projectId: "hhbaku-fda38",
+  appId: "1:44436854304:web:90ec5e26c3df5a61ee0e45"
 };
 
 // 2) Admin e-poçtu (Firebase Authentication-da yaratdığınız istifadəçi)
-export const ADMIN_EMAIL = "admin@hhbaku.az";
+export const ADMIN_EMAIL = "hhbaku@gmail.com";
 
 // 3) Cloudinary (şəkil yaddaşı)
-export const CLOUD_NAME = "BURA_YAZIN";
-export const UPLOAD_PRESET = "BURA_YAZIN";
+export const CLOUD_NAME = "n0htkufr";
+export const UPLOAD_PRESET = "wen8csod";
 
 // 4) Əlaqə: Instagram adı (@ olmadan). WhatsApp nömrəsi ölkə kodu ilə, + və boşluqsuz (məs. 994501234567). Boş qoysanız yalnız Instagram işləyir.
 export const INSTAGRAM = "hh.baku";
-export const WHATSAPP = "";
+export const WHATSAPP = "+994552401070";
 
 // 5) Məhsul limiti (0 = limitsiz) və valyuta
-export const MAX_PRODUCTS = 0;
+export const MAX_PRODUCTS = 50;
 export const CURRENCY = "₼";
 
 // 6) Mətnlər
